@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutocadToSVG", "AutocadToSVG\AutocadToSVG.csproj", "{9913F0B8-97F3-4760-892A-C0120363AEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9913F0B8-97F3-4760-892A-C0120363AEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9913F0B8-97F3-4760-892A-C0120363AEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9913F0B8-97F3-4760-892A-C0120363AEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9913F0B8-97F3-4760-892A-C0120363AEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48EAFAD5-3B06-498F-B744-9DDD8EE81E4D}
+	EndGlobalSection
+EndGlobal
